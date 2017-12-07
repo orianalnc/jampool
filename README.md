@@ -1,2 +1,2 @@
 # jampool
-aqetacion de Sistema de animalito Jampool
+Maqetacion de Sistema de animalito Jampool
